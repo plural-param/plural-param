@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7135E&width=435&lines=Welcome+to+PLURAL+LAB)](https://git.io/typing-svg)
 
-## Visit our Lab Website
+## Visit our Website
 🔗 [https://plural.iiit.ac.in/](https://plural.iiit.ac.in/)
 
 ## Some Tools/Annotators you may have a look:
