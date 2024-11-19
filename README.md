@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7135E&width=435&lines=Welcome+to+PLURAL+LAB)](https://git.io/typing-svg)
+
+## Visit our Lab Website
+🔗 [https://plural.iiit.ac.in/](https://plural.iiit.ac.in/)
+
+## Some Tools/Annotators you may have a look:
+🔗 [Transliteraton]()
+🔗 [Tamil Parser]()
+🔗 [CONLL-U Annotator]()
+🔗 [Headline-Annotator]()
+🔗 [NER] Coming soon!
+
 <!--
 **plural-param/plural-param** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
