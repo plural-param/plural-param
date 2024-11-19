@@ -6,11 +6,11 @@
 🔗 [https://plural.iiit.ac.in/](https://plural.iiit.ac.in/)
 
 ## Some Tools/Annotators you may have a look:
-🔗 [Transliteraton]()
-🔗 [Tamil Parser]()
-🔗 [CONLL-U Annotator]()
-🔗 [Headline-Annotator]()
-🔗 [NER] Coming soon!
+🔗 [Transliteraton]()  
+🔗 [Tamil Parser]()  
+🔗 [CONLL-U Annotator]()  
+🔗 [Headline-Annotator]()  
+🔗 [NER] Coming soon!  
 
 <!--
 **plural-param/plural-param** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
