@@ -6,10 +6,9 @@
 🔗 [https://plural.iiit.ac.in/](https://plural.iiit.ac.in/)
 
 ## Some Tools/Annotators you may have a look:
-🔗 [Transliteraton]()  
-🔗 [Tamil Parser]()  
-🔗 [CONLL-U Annotator]()  
-🔗 [Headline-Annotator]()  
+🔗 [Tamil Parser](https://github.com/plural-param/TVA-Tamil-Parser)  
+🔗 [CONLL-U Annotator](https://github.com/parameshkrishnaa/conllu-Annotatrix)  
+🔗 [Headline-Annotator](https://github.com/nagaraju291990/Headline-Annotation)  
 🔗 [NER] Coming soon!  
 
 <!--
